@@ -1,0 +1,3 @@
+Using any paragraph of your choosing, count the number of occurrences of each letter.
+Display the results in the order of each letter's first occurrence in the paragraph, 
+and again alphabetically.
